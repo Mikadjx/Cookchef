@@ -13,4 +13,6 @@
 [http://localhost:3000](http://localhost:3000) 
 
 
+Langage utilisée
+typescript logo angularjs logo bootstrap logo figma logo git logo html5 logo css3 logo
 </div>
