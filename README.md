@@ -1,4 +1,6 @@
-<img src="./Cookchef/1.png">
+
+
+https://github.com/Mikadjx/Cookchef/blob/327725e89c488de6659799786e2ea591c254c664/1.png
 
 # Getting Started with Create React App
 
