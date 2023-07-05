@@ -1,6 +1,6 @@
-<div style="10px" align="center">
+<div align="center">
 
-![alt text](https://github.com/Mikadjx/Cookchef/blob/327725e89c488de6659799786e2ea591c254c664/1.png
+![alt text](https://github.com/Mikadjx/Cookchef/blob/327725e89c488de6659799786e2ea591c254c664/1.png =20x
 )
 </div>
 
