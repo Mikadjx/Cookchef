@@ -13,6 +13,20 @@
 [http://localhost:3000](http://localhost:3000) 
 
 
-Langage utilisée
-typescript logo angularjs logo bootstrap logo figma logo git logo html5 logo css3 logo
+<h2 align="center">Langage utilisée</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="70" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="70" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="70" alt="Sass Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="70" alt="JavaScript Logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="70" alt="React Logo" />
+
+
+
+</div>
+
+###
 </div>
