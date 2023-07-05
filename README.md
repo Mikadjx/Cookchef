@@ -2,6 +2,9 @@
 
 https://github.com/Mikadjx/Cookchef/blob/327725e89c488de6659799786e2ea591c254c664/1.png
 
+![alt text](https://github.com/Mikadjx/Cookchef/blob/327725e89c488de6659799786e2ea591c254c664/1.png
+)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
