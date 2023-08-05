@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/Cookchef/static/css/main.853d4336.css",
-    "main.js": "/Cookchef/static/js/main.f8373175.js",
+    "main.css": "/Cookchef/static/css/main.0859c234.css",
+    "main.js": "/Cookchef/static/js/main.539f825c.js",
     "static/js/787.4cbd0921.chunk.js": "/Cookchef/static/js/787.4cbd0921.chunk.js",
-    "static/media/katie-smith-uQs1802D0CQ-unsplash.jpg": "/Cookchef/static/media/katie-smith-uQs1802D0CQ-unsplash.c1a6002aee504d3c3694.jpg",
     "static/media/Red Vintage Shrimp Seafood Logo.png": "/Cookchef/static/media/Red Vintage Shrimp Seafood Logo.2cb790369f556eba86d7.png",
     "index.html": "/Cookchef/index.html",
-    "main.853d4336.css.map": "/Cookchef/static/css/main.853d4336.css.map",
-    "main.f8373175.js.map": "/Cookchef/static/js/main.f8373175.js.map",
+    "main.0859c234.css.map": "/Cookchef/static/css/main.0859c234.css.map",
+    "main.539f825c.js.map": "/Cookchef/static/js/main.539f825c.js.map",
     "787.4cbd0921.chunk.js.map": "/Cookchef/static/js/787.4cbd0921.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.853d4336.css",
-    "static/js/main.f8373175.js"
+    "static/css/main.0859c234.css",
+    "static/js/main.539f825c.js"
   ]
 }
