@@ -1,15 +1,25 @@
+import { useState } from 'react';
 import styles from './recipe.module.scss';
-import recipe from '../assets/images/katie-smith-uQs1802D0CQ-unsplash.jpg'
 
 
-function Recipe() {
+
+function Recipe({ title, image}) {
+
+    const [liked, setLiked ] = useState(false);
+
+    function handleClick() {
+        setLiked(!liked);
+    }
     return (
-        <div className={styles.recipe}>
+
+
+        <div onClick={handleClick} className={styles.recipe}>
             <div className={styles.imageContainer}>
-                <img src={recipe} alt="recipe" />
+                <img src={`${process.env.PUBLIC_URL}/${image}`} alt="recipe" />
             </div>
-            <div className={`${styles.recipeTitle} d-flex flex-row justify-content-center align-items-center`}>
-<h3> Cookies </h3>
+            <div className={`${styles.recipeTitle} d-flex flex-column justify-content-center align-items-center`}>
+<h3 className="mb-10">{title} </h3>
+<i className={`fa-solid fa-heart ${liked ? "text-primary" :  ""}`}></i>
             </div>
         </div>
     );

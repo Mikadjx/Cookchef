@@ -1,7 +1,10 @@
 import styles from "../content.module.scss";
 import Recipe from "./recipe";
+import { data } from "../data/recipes";
 
 function Content() {
+
+    const recipes = data;
     return (
     
     
@@ -9,16 +12,10 @@ function Content() {
 <h1 className="my-30">Découvrez nos nouvelles recettes</h1>
 <div className={`card p-20 ${styles.contentCard}`}>
 <div className={styles.grid}>
-<Recipe />
-<Recipe />
-<Recipe />
-<Recipe />
-<Recipe />
-<Recipe />
 
-
-
-
+{recipes.map((r) => (
+<Recipe title={r.title} image={r.image} />
+))}
 </div>
 </div>
     </div>
