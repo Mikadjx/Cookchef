@@ -2,7 +2,7 @@
 
 ![alt](https://github.com/Mikadjx/Cookchef/blob/aae784e6549584c2ed49a6a38acf3e6ad517fb69/Orange%20and%20Brown%20Culinary%20Kitchen%20Logo%20(1).png)
 
-[CookChef](https://mikadjx.github.io/Cookchef) <--- CLICK HERE !
+[COOKCHEF](https://mikadjx.github.io/Cookchef) <--- CLICK HERE !
 
 
 <h2 align="center">Langage utilisée</h2>
