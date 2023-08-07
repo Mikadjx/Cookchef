@@ -1,6 +1,6 @@
 <div align="center">
 
-[!alt](https://github.com/Mikadjx/Cookchef/blob/aae784e6549584c2ed49a6a38acf3e6ad517fb69/Orange%20and%20Brown%20Culinary%20Kitchen%20Logo%20(1).png)
+![alt](https://github.com/Mikadjx/Cookchef/blob/aae784e6549584c2ed49a6a38acf3e6ad517fb69/Orange%20and%20Brown%20Culinary%20Kitchen%20Logo%20(1).png)
 
 [COOKCHEF](https://mikadjx.github.io/Cookchef) <--- CLICK HERE 
 
