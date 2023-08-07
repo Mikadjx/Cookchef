@@ -11,7 +11,7 @@
 ### `npm start`
 
 [http://localhost:3000](http://localhost:3000) 
-[https://mikadjx.github.io/Cookchef/]
+[https://mikadjx.github.io/Cookchef](CookChef)
 
 
 <h2 align="center">Langage utilisée</h2>
